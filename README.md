@@ -4,8 +4,8 @@
 > Used Pandas for data manipulation.
 
 > **Installation for streamlit**
-> pip install streamlit
-> streamlit run appname
+pip install streamlit
+streamlit run appname
 
 > **Data Source**
 > https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95

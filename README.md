@@ -4,7 +4,7 @@
 > Used Pandas for data manipulation.
 
 > **Installation for streamlit**
-pip install streamlit ||
+pip install streamlit >>
 streamlit run appname
 
 > **Data Source**
